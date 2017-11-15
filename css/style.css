@@ -1,0 +1,61 @@
+body{
+background-color: #ffffcc; 
+}
+/* nav bar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 124px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li a:hover {
+    background-color: #111;
+}/*nav bar*/
+
+#name{
+  background-color: #6699ff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+#title{
+  text-align: center;
+}
+.aboutme{
+  float: left;
+}
+.images1{
+  float: right;
+  padding-bottom: 50px;
+}
+.flex-container {
+  display: flex;
+}
+
+.flex-container>div {
+  margin: 20px;
+  padding:100px;
+  font-size: 20px;
+}
+.logo{
+  float: right;
+}
+.details{
+  width:200px;
+  height: 100px;
+}
