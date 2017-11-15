@@ -1,5 +1,5 @@
 body{
-background-color: #ffffcc; 
+background-color: #eeeeae; 
 }
 /* nav bar*/
 ul {
@@ -28,7 +28,7 @@ li a:hover {
 }/*nav bar*/
 
 #name{
-  background-color: #6699ff;
+  background-color: #f1acbe67;
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
@@ -58,4 +58,7 @@ li a:hover {
 .details{
   width:200px;
   height: 100px;
+}
+.footer{
+  background-color: rgba(172, 230, 226, 0.397)
 }
