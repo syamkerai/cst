@@ -55,10 +55,7 @@ li a:hover {
 .logo{
   float: right;
 }
-.details{
-  width:200px;
-  height: 100px;
-}
+
 .footer{
   background-color: rgba(172, 230, 226, 0.397)
 }
